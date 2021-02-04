@@ -57,7 +57,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Renamed class="hero" --> class="hero-image", serves the purpose of a background image for the div element */
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
