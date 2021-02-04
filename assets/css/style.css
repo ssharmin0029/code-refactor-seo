@@ -5,11 +5,12 @@
     margin: 0;
 }
 
+/* Body selector */
 body {
     background-color: #d9dcd6;
 }
 
-/* Using <header> element instead of class="header" (.header --> header) */
+/* Using <header> element instead of class="header" (.header selector --> header) */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -48,6 +49,7 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* Link selector */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -103,10 +105,12 @@ a {
     font-size: 36px;
 }
 
+/* Paragraph selector */
 p {
     font-size: 16px;
 }
 
+/* Applies to all elements inside the class="benefits" */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,13 +141,15 @@ p {
     max-width: 150px;
 }
 
-.footer {
+/* Using <footer> element instead of class="footer" (.footer selector --> footer) */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+/* Selecting <h2> element that is inside the <footer> */
+footer h2 {
     font-size: 20px;
 }
