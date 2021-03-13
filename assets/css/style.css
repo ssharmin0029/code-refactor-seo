@@ -45,7 +45,7 @@ header nav ul {
 
 /* Selecting <li> element that is inside <ul> --> <nav> --> <header> */
 header nav ul li {
-    display: inline-block;
+    display: flex;
     margin-left: 25px;
 }
 
