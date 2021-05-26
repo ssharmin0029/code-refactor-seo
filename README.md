@@ -27,12 +27,12 @@ From making sure to take care of the <title></title> element, to see none of the
 - [Demo-Screenshots of the App](#Demo-Screenshots-of-the-App)
 - [Deployed Application URL](#Deployed-Application-URL)
 - [Description](#Description)
-- [Installations & Usage](#Installations-Usage)
+- [Installation & Usage](#Installation-Usage)
 - [Navigating the Repository](#Navigating-the-Repository)
 - [Technologies Used](#Technologies-Used)
 
 
-## Installations & Usage
+## Installation & Usage
 
 Given you already have Node.js and MySQL Workbench installed on your computer, clone the repository on your local machine. On your local repository, create a .env file that contains 
 
