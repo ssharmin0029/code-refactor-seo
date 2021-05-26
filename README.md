@@ -27,12 +27,14 @@ From making sure to take care of the <title></title> element, to see none of the
 - [Demo-Screenshots of the App](#Demo-Screenshots-of-the-App)
 - [Deployed Application URL](#Deployed-Application-URL)
 - [Description](#Description)
-- [Installation + Usage](#Installation-+-Usage)
+- [Installation](#Installation)
+- [Usage](#Usage)
 - [Navigating the Repository](#Navigating-the-Repository)
 - [Technologies Used](#Technologies-Used)
 
 
-## Installation & Usage
+
+## Installation
 
 Given you already have Node.js and MySQL Workbench installed on your computer, clone the repository on your local machine. On your local repository, create a .env file that contains 
 
@@ -46,6 +48,9 @@ Then open the terminal and naviagte to your local repo. Run this command to inst
 ```
 npm i 
 ```
+
+## Usage
+
 Next open MySQL Workbench and run these lines of code 
 ```
 DROP DATABASE IF EXISTS property_violationDB;
