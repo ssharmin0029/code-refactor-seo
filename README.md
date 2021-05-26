@@ -27,7 +27,7 @@ From making sure to take care of the <title></title> element, to see none of the
 - [Demo-Screenshots of the App](#Demo-Screenshots-of-the-App)
 - [Deployed Application URL](#Deployed-Application-URL)
 - [Description](#Description)
-- [Installation & Usage](#Installation-Usage)
+- [Installation-Usage](#Installation-Usage)
 - [Navigating the Repository](#Navigating-the-Repository)
 - [Technologies Used](#Technologies-Used)
 
