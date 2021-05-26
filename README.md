@@ -22,3 +22,60 @@ From making sure to take care of the <title></title> element, to see none of the
 
 
 
+
+
+## Navigating the Repository
+
+Once you open the repository, you will find
+
+* server.js 
+* package.json
+* package-lock.json
+* README.md
+* ProjectGuide.md
+* .gitignore
+
+and various folders that contain 
+
+- assets
+  - images (app screenshots)
+- config 
+  - connection.js
+- controller
+  - api
+    - houseRoutes.js
+    - index.js
+    - userRoutes.js
+  - homeRoutes.js
+  - index.js
+  - profileRoutes.js
+- db
+  - schema.sql
+- models
+  - House.js
+  - index.js
+  - User.js
+- public
+  - css
+    - main.css
+  - js
+    - homeScripts.js
+    - login.js
+    - logout.js
+    - profile.js
+    - save.js
+- seeds
+  - houseData.json
+  - seed.js
+  - userData.json 
+- utils 
+  - auth.js
+  - helpers.js
+- views
+  - layouts
+    - main.handlebars
+  - homepage.handlebars
+  - house.handlebars
+  - login.handlebars
+  - profile.handlebars
+  - zip.handlebars
